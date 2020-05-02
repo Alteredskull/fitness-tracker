@@ -3,12 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.9.11",
-    "morgan": "^1.10.0"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -23,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/Alteredskull/fitness-tracker/issues"
   },
-  "homepage": "https://github.com/Alteredskull/fitness-tracker#readme"
+  "homepage": "https://github.com/Alteredskull/fitness-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.11",
+    "morgan": "^1.10.0"
+  }
 }
