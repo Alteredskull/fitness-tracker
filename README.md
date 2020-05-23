@@ -1,1 +1,3 @@
-# fitness-tracker
+# FITNESS-TRACKER
+# DEPLOYED APPLICATION
+ http://34.72.161.84/
